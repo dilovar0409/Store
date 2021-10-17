@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Store/static/css/main.50341572.chunk.css",
+    "main.js": "/Store/static/js/main.f3f75b7d.chunk.js",
+    "main.js.map": "/Store/static/js/main.f3f75b7d.chunk.js.map",
+    "runtime-main.js": "/Store/static/js/runtime-main.0303f09b.js",
+    "runtime-main.js.map": "/Store/static/js/runtime-main.0303f09b.js.map",
+    "static/js/2.db63f76c.chunk.js": "/Store/static/js/2.db63f76c.chunk.js",
+    "static/js/2.db63f76c.chunk.js.map": "/Store/static/js/2.db63f76c.chunk.js.map",
+    "static/js/3.2f61c720.chunk.js": "/Store/static/js/3.2f61c720.chunk.js",
+    "static/js/3.2f61c720.chunk.js.map": "/Store/static/js/3.2f61c720.chunk.js.map",
+    "index.html": "/Store/index.html",
+    "static/css/main.50341572.chunk.css.map": "/Store/static/css/main.50341572.chunk.css.map",
+    "static/js/2.db63f76c.chunk.js.LICENSE.txt": "/Store/static/js/2.db63f76c.chunk.js.LICENSE.txt",
+    "static/media/addproduct.3853fd87.svg": "/Store/static/media/addproduct.3853fd87.svg",
+    "static/media/arrow-up.c35b0cfb.svg": "/Store/static/media/arrow-up.c35b0cfb.svg",
+    "static/media/bg-image.200930fc.png": "/Store/static/media/bg-image.200930fc.png",
+    "static/media/delete-icon.b6aff889.svg": "/Store/static/media/delete-icon.b6aff889.svg",
+    "static/media/edit-icon.043b96f7.svg": "/Store/static/media/edit-icon.043b96f7.svg",
+    "static/media/number-icon.005826af.svg": "/Store/static/media/number-icon.005826af.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0303f09b.js",
+    "static/js/2.db63f76c.chunk.js",
+    "static/css/main.50341572.chunk.css",
+    "static/js/main.f3f75b7d.chunk.js"
+  ]
+}
